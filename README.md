@@ -1,5 +1,8 @@
 # Task Manager Frontend
 
+![task-manager](https://github.com/user-attachments/assets/782511e9-4e0d-4640-8169-7d8beebab92b)
+
+
 ## 🚀 Tech Stack
 
 - **Framework**: React (Vite)
