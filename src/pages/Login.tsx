@@ -48,7 +48,7 @@ const Login = () => {
       {contextHolder}
       <Row justify="center" align="middle" style={{ minHeight: "100vh" }}>
         <Col>
-          <Card title="Login" style={{ width: 400 }}>
+          <Card title="Login">
             <Form layout="vertical" onFinish={handleLogin}>
               <Form.Item
                 name="username"
